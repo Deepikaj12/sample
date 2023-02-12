@@ -9,7 +9,7 @@ pipeline {
         }
         stage("hi"){
             steps{
-                echo "Hi!!!!"
+                echo "this is dev"
             }
         }
         }
